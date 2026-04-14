@@ -1,5 +1,4 @@
 # AI-Powered Smart Nutrition Scale
-An MCA Final Year Project developed at Ramaiah Institute of Technology.
 
 ## 🚀 Features
 * **Dual-Microcontroller Setup**: ESP32-CAM for sensing and Standard ESP32 for UI.
